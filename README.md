@@ -48,7 +48,6 @@ KeyboardLayoutOptimizer analyzes word frequencies and letter patterns to generat
 This project is currently in early development. If you're interested in contributing, please:
 1. Check the issues page
 2. Follow the standard fork and pull request workflow
-3. Ensure your code follows the project's style guidelines
 
 ## 📝 License
 
